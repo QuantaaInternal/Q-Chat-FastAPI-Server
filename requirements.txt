@@ -17,3 +17,5 @@ urllib3==2.5.0
 uvicorn==0.37.0
 yfinance==0.2.66
 sqlmodel==0.0.24
+psycopg==3.2.9
+
